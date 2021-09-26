@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @NiGhTBoT22
+- 👋 Hi, I’m @NiGhT_BoT_22
+- 📱 Reach me on TG [@NiGhT_BoT_22](https://t.me/@NiGhT_BoT_22) 
 - 👀 Having nothing to say, bcas I'm an dumb human 
 
 
