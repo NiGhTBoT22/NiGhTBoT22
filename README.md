@@ -6,9 +6,13 @@
 #### 
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NiGhTBoT22)
 
-### 🐙 My GitHub Stats 📊
+### 🤖 My GitHub Stats 📊
 
 ![NiGhTBoT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiGhTBoT22) 
+
+<p>
+    <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
+ </p>
 
 
 <!---
